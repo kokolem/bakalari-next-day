@@ -7,6 +7,20 @@ Po spuštění se vás zeptá na tři údaje:
 - Přihlašovací jméno
 - Heslo
 - URL adresa Bakalářů školy (končící /login.aspx)
+Potom vám ukáže požadované informace. Mohou vypadat třeba takto:
+
+```
+Dějepis
+Francouzský jazyk
+Fyzika
+Anglický jazyk
+Pracovní činnosti
+
+A vyndej: 
+
+Zeměpis
+Tělesná výchova
+```
 
 ### Závislosti
 - Python 3.x
