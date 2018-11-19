@@ -6,7 +6,7 @@ CSNZPACZTVPB je Python program zobrazující co si vzít a co na příští den 
 Po spuštění se vás zeptá na tři údaje:
 - Přihlašovací jméno
 - Heslo
-- URL adresa Bakalářů školy (například https://skola.bakalari/bakaweb/login.aspx)
+- URL adresa Bakalářů školy (například `https://skola.bakalari.cz/bakaweb/login.aspx`)
 Potom vám ukáže požadované informace. Mohou vypadat třeba takto:
 
 ```
