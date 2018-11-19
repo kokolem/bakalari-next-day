@@ -7,6 +7,7 @@ Po spuštění se vás zeptá na tři údaje:
 - Přihlašovací jméno
 - Heslo
 - URL adresa Bakalářů školy (například `https://skola.bakalari.cz/bakaweb/login.aspx`)
+
 Potom vám ukáže požadované informace. Mohou vypadat třeba takto:
 
 ```
