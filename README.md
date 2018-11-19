@@ -10,7 +10,7 @@ Po spuštění se vás zeptá na tři údaje:
 Potom vám ukáže požadované informace. Mohou vypadat třeba takto:
 
 ```
-Do tasky si pridej
+Do tasky si pridej:
 
 Dějepis
 Francouzský jazyk
