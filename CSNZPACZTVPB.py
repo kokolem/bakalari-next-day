@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import requests
 import xml.etree.ElementTree as et
 import hashlib
