@@ -27,4 +27,4 @@ Tělesná výchova
 
 ### Závislosti
 - Python 3.x
-- knihovna [requests](http://docs.python-requests.org/en/master/)
+- Knihovna [requests](http://docs.python-requests.org/en/master/)
