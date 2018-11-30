@@ -1,7 +1,7 @@
 # Co si na zítra přidat a co z tašky vyndat podle Bakalářů
 
 ### O programu
-CSNZPACZTVPB je Python program zobrazující co si vzít a co na příští den z tašky vyndat podle rozvrhu z Bakalářů.
+*Co si na zítra přidat a co z tašky vyndat podle Bakalářů* je Python program zobrazující co si vzít a co na příští den z tašky vyndat podle rozvrhu z Bakalářů.
 Po spuštění se vás zeptá na tři údaje:
 - Přihlašovací jméno
 - Heslo
