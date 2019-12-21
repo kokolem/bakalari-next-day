@@ -2,7 +2,7 @@
   
 <div align="center">
   
-  Co si na zítra přidat a co z tašky vyndat podle Bakalářů
+  Co si na zítra přidat a co z tašky vyndat podle Bakalářů.
   
   ![GitHub](https://img.shields.io/github/license/kokolem/bakalari-next-day)
   ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/kokolem/bakalari-next-day)
